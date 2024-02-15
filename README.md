@@ -4,12 +4,12 @@
 
 Welcome to my sample portfolio website repository! This project features a simple yet elegant portfolio website built using HTML and basic CSS. The website consists of two main pages: a home page and a contact page.
 
-## Features:
+# Features:
 
----Home Page: Introduces visitors to who I am, what I do, and showcases highlights of my work.
----Contact Page: Provides a platform for visitors to get in touch with me, featuring a contact form and relevant contact information.
+Home Page: Introduces visitors to who I am, what I do, and showcases highlights of my work.
+Contact Page: Provides a platform for visitors to get in touch with me, featuring a contact form and relevant contact information.
 
-## Technologies Used:
-   --- HTML
-   --- CSS
+# Technologies Used:
+    HTML
+    CSS
    
